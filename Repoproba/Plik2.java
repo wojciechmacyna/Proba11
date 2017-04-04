@@ -1,0 +1,1 @@
+Linia pierwsza pliku 2
